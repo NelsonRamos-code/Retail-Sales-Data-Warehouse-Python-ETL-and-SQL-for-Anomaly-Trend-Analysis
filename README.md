@@ -14,6 +14,7 @@ The project focuses on building a functional pipeline to extract, transform, and
 ## Step 2 – Transformation in Python (Pandas)
 
 **Clean Data:** Handle messy data, specifically treating values like "not available" and "unknown" as null values. 
+
 **Standardize Data:** Clean and format column names (e.g., converting to lowercase and replacing spaces with underscores).  
 **Feature Engineering:**  Create new analytical columns like discount, sale_price, and profit.
 
